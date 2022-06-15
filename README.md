@@ -1,4 +1,4 @@
-# node.js-authenticator
+# node.js-wordpress-authenticator
 WordPress user registration, login and dashboard by Node.js and Bootstrap 5.2 .
 
 In this plugin you will how you can use Node.js for user authentication in WordPress. Bootstrap 5 is used in this project.  
